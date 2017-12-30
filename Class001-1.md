@@ -23,9 +23,13 @@ With so many ways to contribute, its hard to figure out how to be you versus how
 
 
 
+
+
+
 Notes:
 Opportunites for every day work:
 Links to HN etc
 Add more in why important section
 memorization sheets for anki?
 move this to the overview of this file?
+Note bad spelling
