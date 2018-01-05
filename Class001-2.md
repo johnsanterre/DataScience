@@ -2,7 +2,7 @@
 - Data Science == Programing, Statistics, Math,  Domain Specialist, Business specialist
 - Programing == Data engineer, code optimizer, Object Oriented coder, Scientific Programing
 - Statistics == Bayesian, Frequentist, Statistical Machine Learning
-- Math == Numerical Linear Algebra, Wavelets, Signal processing, 
+- Math == Numerical Linear Algebra, Wavelets, Signal processing
 
 
 # Breakout One
