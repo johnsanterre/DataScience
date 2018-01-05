@@ -1,3 +1,10 @@
+# Overview: Why big picture is relevent
+- Data Science == Programing, Statistics, Math,  Domain Specialist, Business specialist
+- Programing == Data engineer, code optimizer, Object Oriented coder, Scientific Programing
+- Statistics == Bayesian, Frequentist, Statistical Machine Learning
+- Math == Numerical Linear Algebra, Wavelets, Signal processing, 
+
+
 # Breakout One
 This will be the most open ended of our work this semester and it will give me a chance to get to know you and to know each other.
 
