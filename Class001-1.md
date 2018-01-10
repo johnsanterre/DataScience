@@ -22,6 +22,8 @@ With so many ways to contribute, it’s hard to figure out how to be you versus 
 
 
 
+#Disclaimer:  I have dysgraphia. It's a kind of visual blindness for symbols.  What this means: Get on github and fix my typos.  Starting in markdown and moving to Latex at somepoint.
+
 
 
 
