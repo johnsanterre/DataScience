@@ -1,7 +1,7 @@
 # Intro:
 
 ### Who Am I?
-todo: Insert photo here.
+See photo above?
 #### Education
   - English BA -> Computer Science PhD (i.e. long road)
 #### Work
