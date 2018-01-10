@@ -1,4 +1,8 @@
-head
-tail
-str
-dim
+- head
+- tail
+- str
+- dim
+- summary
+- read.table
+- class
+- gwd
