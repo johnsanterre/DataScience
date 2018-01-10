@@ -6,3 +6,4 @@
 - read.table
 - class
 - gwd
+- setwd
