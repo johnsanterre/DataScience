@@ -25,3 +25,10 @@ Syntax is how you convey ideas, some ideas are specific to language, but most pr
 - python -> pandas
 - scripting versus programing, interactive environment versus output
 - Python packages versus R repo
+
+
+Notes:
+
+Keepers of the algorithms.
+
+Magic trick.
