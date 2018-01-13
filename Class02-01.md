@@ -21,7 +21,11 @@
   Wiki: https://en.wikipedia.org/wiki/Cross-validation_(statistics)
 
   R: https://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/
+  
+- Data cleaning
 
+  https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
+  
 # Industry leading
 - XGBoost
 - Neural Network
