@@ -1,24 +1,30 @@
 # You will use regularly
+
 - Random Forest: "a collection of decision trees with controlled variance"
   
   Wiki: https://en.wikipedia.org/wiki/Random_forest
   
-  http://blog.yhat.com/posts/random-forests-in-python.html
+  Python: http://blog.yhat.com/posts/random-forests-in-python.html
   
   paper: https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf
 
-  Yali Amit, a co-creater was head of Stats dept at Uchicago
+  Notes:  Yali Amit, a co-creater is head of Stats at Uchicago
   
 - Lasso
 
   Wiki: https://en.wikipedia.org/wiki/Lasso_(statistics)
   
+  https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
+
 - Cross Validation
 
+  Wiki: https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+
+  R: https://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/
 
 # Industry leading
 - XGBoost
-- Deep Learning
+- Neural Network
 
 
 
