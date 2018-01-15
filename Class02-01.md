@@ -38,5 +38,6 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
 kdnuggets
 https://www.datatau.com
 https://news.ycombinator.com
+https://learnxinyminutes.com/docs/r/
 
 
