@@ -12,7 +12,7 @@ last.letter.vowel = c()
 for(i in 1:dim(USArrests)[1]) {
   state.name = rownames(USArrests)[i]
   lenth.of.state.name = nchar(state.name)
-  last.letter = substr(state_name,lenth.of.capital, lenth.of.state.name)
+  last.letter = substr(state.name,lenth.of.capital, lenth.of.state.name)
   if (last.letter %in% c('a','e','i','o','u','y')) {
     last.letter.vowel<-c(last.letter.vowel,1)
   }
