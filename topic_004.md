@@ -17,6 +17,7 @@
   https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
 
 - Cross Validation
+  Stratified Cross validation
 
   Wiki: https://en.wikipedia.org/wiki/Cross-validation_(statistics)
 
