@@ -10,9 +10,9 @@ help(USArrests)
 #Feature construction
 last.letter.vowel = c()
 for(i in 1:dim(USArrests)[1]) {
-  capital = rownames(USArrests)[i]
-  lenth.of.capital = nchar(capital)
-  last.letter = substr(capital,lenth.of.capital, lenth.of.capital)
+  state.name = rownames(USArrests)[i]
+  lenth.of.state.name = nchar(state.name)
+  last.letter = substr(state_name,lenth.of.capital, lenth.of.state.name)
   if (last.letter %in% c('a','e','i','o','u','y')) {
     last.letter.vowel<-c(last.letter.vowel,1)
   }
