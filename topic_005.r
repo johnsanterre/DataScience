@@ -3,7 +3,6 @@
 
 USArrests
 data <- USArrests
-#Whats going on?
 help(USArrests)
 
 #Feature construction
@@ -24,7 +23,7 @@ data = cbind(data,last.letter.vowel)
 
 
 
-
+# Random Forest execution
 install.packages('randomForest')
 library(randomForest)
 #https://cran.r-project.org/web/packages/randomForest/randomForest.pdf
