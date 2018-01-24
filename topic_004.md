@@ -42,3 +42,4 @@ https://news.ycombinator.com
 https://learnxinyminutes.com/docs/r/
 
 
+https://www.youtube.com/watch?v=bL4b1sGnILU
