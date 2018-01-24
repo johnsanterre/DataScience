@@ -38,11 +38,13 @@ Confused:
 6. **git status**
 
 Other:
+
 6. **git del**
 7. **git checkout**
 8. **git commit -am** " *a-message* "
+9. **git commit -am 'a'; git push**
 
-9 **git commit -am 'a'; git push**
+&nbsp;
 
 **To Practice CMD:**
 https://try.github.io/levels/1/challenges/1
