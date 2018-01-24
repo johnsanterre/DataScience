@@ -12,19 +12,23 @@ Two Secondary approaches:
 - Working on MASTER branch all the time
 - Working with Branches
 
-only 1st time: git clone REPOLOCATION
-only when making NEW files:  git add AFILENAME
+Today we are ignoring branches to keep the workflow simple.
+
+First day of work:
+ 1.git clone REPOLOCATION
+
+Make New file:
+ 2. git add AFILENAME
 
 Before Working: git pull
 WORK
 After Working:
-1. git commit -m "AMESSAGE"
-2. git push
+3. git commit -m "AMESSAGE"
+5. git push
 
-When Confused:
-   git status
+Confused:
+6. git status
 
-start work day:
 
 
 try.github.io/levels/1/challenges/1
