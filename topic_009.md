@@ -1,5 +1,8 @@
 Git!
 
+&nbsp;
+
+
 Two Big approaches:
 
 - Git from the CMD line.
@@ -14,9 +17,9 @@ Two Secondary approaches:
 
 *Today we are ignoring branches to keep the workflow simple.*
 
-  &nbsp;
+&nbsp;
 
-  &nbsp;
+&nbsp;
 
 
 
