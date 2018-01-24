@@ -12,7 +12,9 @@ Two Secondary approaches:
 - Working on MASTER branch all the time
 - Working with Branches
 
-Today we are ignoring branches to keep the workflow simple.
+*Today we are ignoring branches to keep the workflow simple.*
+
+###Workflow
 
 **First day of work:**
 
