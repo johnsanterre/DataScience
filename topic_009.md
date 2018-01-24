@@ -14,24 +14,29 @@ Two Secondary approaches:
 
 Today we are ignoring branches to keep the workflow simple.
 
-First day of work:
+**First day of work:**
+
 1. git clone REPOLOCATION
 
-Make New file:
+**Make New file:**
 
 2. git add AFILENAME
 
-Before Work:
+**Before Work:**
+
 3. git pull
 
-After Work:
+**After Work:**
+
 4. git commit -m "AMESSAGE"
 5. git push
 
-Confused:
+**Confused:**
+
 6. git status
 
 Other:
+
 6. git del
 7. git checkout
 
