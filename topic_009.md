@@ -36,16 +36,18 @@ After Work:
 5. **git push**
 
 Confused:
+
 6. **git status**
 
 Other:
 
 6. **git del**
 7. **git checkout**
+8. **git commit -am** " *a-message* "
 
 
+**To Practice CMD**
+https://try.github.io/levels/1/challenges/1
 
-try.github.io/levels/1/challenges/1
-
-
+**To Set up Rstudio**
 https://www.r-bloggers.com/rstudio-and-github/
