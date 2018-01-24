@@ -1,7 +1,19 @@
 Git!
 
+Two Big approaches:
 
-a change
+- Git from the CMD line.
+      Powerful, flexible, irritating
+
+- Git from Rstudio
+      Simple, easy, limiting
+
+Two Secondary approaches:
+- Working on MASTER branch all the time
+- Working with Branches
+
+
+
 
 try.github.io/levels/1/challenges/1
 
