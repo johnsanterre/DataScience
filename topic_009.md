@@ -1,17 +1,13 @@
-Git!
+# Git!
 
 &nbsp;
 
+**Two Big approaches:**
 
-Two Big approaches:
+- Git from the CMD line:  Powerful, flexible, irritating
+- Git from Rstudio:  Simple, easy, limiting
 
-- Git from the CMD line.
-      Powerful, flexible, irritating
-
-- Git from Rstudio
-      Simple, easy, limiting
-
-Two Secondary approaches:
+**Two Secondary approaches:**
 - Working on MASTER branch all the time
 - Working with Branches
 
@@ -20,8 +16,6 @@ Two Secondary approaches:
 &nbsp;
 
 &nbsp;
-
-
 
 ### Workflow
 
