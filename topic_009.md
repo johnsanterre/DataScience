@@ -17,7 +17,7 @@
 
 &nbsp;
 
-#### Workflow
+### Workflow
 
 First day of work:
 1. **git clone** *repo-loc*
