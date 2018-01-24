@@ -14,7 +14,7 @@ Two Secondary approaches:
 
 *Today we are ignoring branches to keep the workflow simple.*
 
-###Workflow
+### Workflow
 
 **First day of work:**
 
