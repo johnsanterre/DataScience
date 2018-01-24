@@ -46,8 +46,9 @@ Other:
 8. **git commit -am** " *a-message* "
 
 
-**To Practice CMD**
+**To Practice CMD:**
 https://try.github.io/levels/1/challenges/1
 
-**To Set up Rstudio**
+**To Set up R-studio:**
 https://www.r-bloggers.com/rstudio-and-github/
+
