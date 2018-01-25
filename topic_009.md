@@ -52,3 +52,9 @@ https://try.github.io/levels/1/challenges/1
 **To Set up R-studio:**
 https://www.r-bloggers.com/rstudio-and-github/
 
+
+# Breakout Session
+
+Everyone should have set up thier github repo while doing the async coursework. In each group pick someone to be Student A, and that person will clone Student B's repo.  Student B will give collaborator access to Student A using Github and Student A should add a single file and push it back up to Student B.
+
+
