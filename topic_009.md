@@ -39,10 +39,10 @@ Confused:
 
 Other:
 
-6. **git del**
-7. **git checkout**
-8. **git commit -am** " *a-message* "
-9. **git commit -am 'a'; git push**
+7. **git del**
+8. **git checkout**
+9. **git commit -am** " *a-message* "
+10. **git commit -am 'a'; git push**
 
 &nbsp;
 
