@@ -39,10 +39,10 @@ Confused:
 
 Other:
 
-6. **git del**
-7. **git checkout**
-8. **git commit -am** " *a-message* "
-9. **git commit -am 'a'; git push**
+7. **git del**
+8. **git checkout**
+9. **git commit -am** " *a-message* "
+10. **git commit -am 'a'; git push**
 
 &nbsp;
 
@@ -52,4 +52,10 @@ https://try.github.io/levels/1/challenges/1
 
 **To Set up R-studio:**
 https://www.r-bloggers.com/rstudio-and-github/
+
+
+# Breakout Session
+
+Everyone should have set up thier github repo while doing the async coursework. In each group pick someone to be Student A, and that person will clone Student B's repo.  Student B will give collaborator access to Student A using Github and Student A should add a single file and push it back up to Student B.
+
 
