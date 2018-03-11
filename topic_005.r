@@ -49,3 +49,15 @@ importance(iris.rf)
 #bg=c("red", "blue", "green")[as.numeric(factor(iris$Species))],
 #main="Iris Data with Prototypes")
 #points(iris.p[,3], iris.p[,4], pch=21, cex=2, bg=c("red", "blue", "green"))
+
+
+
+#library(randomForest)
+#M = iris[,-5]  #  messurment ddata 
+#L = iris[,5]  # Species categories, discrete labels Levels == setosa versicolor virginica
+#iris.rf <- randomForest(M, L, prox=TRUE)
+#hist(iris[,1]+iris[,2])
+#hist(iris[,1]-iris[,2], breaks=30)
+#
+#predict(iris.rf, iris[1,-5])
+#plot
