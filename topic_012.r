@@ -40,6 +40,12 @@ library(stats)
 fit <- princomp(x, cor = TRUE)
 summary(fit)
 
+#library(parallel)
+#library(doParallel)
+#fitControl <- trainControl(method = "cv",number = 2, allowParallel = TRUE)
+#cluster <- makeCluster(detectCores() - 1) 
+#registerDoParallel(cluster)
+
 #Gradiant Boosting Algorithms
 library(caret)
 fitControl <- trainControl( method = "repeatedcv", number = 4, repeats = 4)
@@ -138,7 +144,7 @@ h <- function() {
 }
 h()
 
-
+rm(a)
 #enviroment
 j <- function() {
   if (!exists("a")) {
@@ -149,8 +155,7 @@ j <- function() {
   a
 }
 j()
-rm(j)
-
+# now add << first then on second a assignment!
 
 sapply(1:5, `+`, 3)
 sapply(1:5, "+", 3)
