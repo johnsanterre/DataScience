@@ -8,13 +8,13 @@
   - Coach/enabler >> disciplinarian
 
 ### What role you will need to take
-  - patient, diligent, self starting
+  - Patient, diligent, self starting
 
 # Why this perspective is important:
-- Data Science == Programing, Statistics, Math,  Domain Specialist, Business specialist
-- Programing == Data engineer, code optimizer, Object Oriented coder, Scientific Programing
+- Data Science == Programming, Statistics, Math, Domain Specialist, Business specialist
+- Programing == Data Engineer, Code Optimizer, Object-Oriented Coder, Scientific Programming
 - Statistics == Bayesian, Frequentist, Statistical Machine Learning
-- Math == Numerical Linear Algebra, Wavelets, Signal processing, 
+- Math == Numerical Linear Algebra, Wavelets, Signal processing
 
 
 
@@ -24,25 +24,25 @@ With so many ways to contribute, it’s hard to figure out how to be you versus 
 
 
 Class Notes:
-1. There are no labs(i.e. they are not manditory).
-2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actuall participation in the class.
+1. There are no labs (i.e. they are not manditory).
+2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade. The rest will come from actual participation in the class.
 3. Homework for 1 is due before the start of Live Session 2. 
 4. All late homework gets a .5 out of 3 deduction.  
-5. Its not too early to start thinking about topic for final project.(https://archive.ics.uci.edu/ml/index.php)
+5. It's not too early to start thinking about topic for final project. (https://archive.ics.uci.edu/ml/index.php)
 6. This class starts slow then builds in speed.  
 7. You are strongly encouraged to collaborate on homeowork, but please make note of it on your submission.  
 
 
 Crucial resources:
 
-If you are just getting started with R.  Install r studio and install the swirl package.  
+If you are just getting started with R. Install r studio and install the swirl package.  
 
 http://swirlstats.com/students.html
-We will use:  install_from_swirl("R Programming")
+We will use: install_from_swirl("R Programming")
 We will complete the first 15 assignments over the first 4 weeks.  
 
 
-If you are a SE(sofware engineer) and the above was too simple,  the link below explians how R works under the hood. 
+If you are a SE (sofware engineer) and the above was too simple, the link below explians how R works under the hood. 
 https://adv-r.hadley.nz/index.html
 
 
