@@ -53,6 +53,8 @@ https://adv-r.hadley.nz/index.html
 
 
 Notes:
+If you learn a bunch and develop your skills you will definitely get a good grade regardless of what path it takes to get there.
+
 Opportunities for every day work:
 Links to HN etc
 Add more in why important section
