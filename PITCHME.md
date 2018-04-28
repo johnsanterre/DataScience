@@ -1,7 +1,7 @@
 ## Data Science
 
 
-<sup><sup>visit : https://gitpitch.com/johnsanterre/DataScience/master<\sup><\sup>
+visit : https://gitpitch.com/johnsanterre/DataScience/master
 
 ---
 ### Intro:
