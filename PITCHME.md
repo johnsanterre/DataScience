@@ -91,7 +91,17 @@ Why this perspective is important:
 
 With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
 
-
+---
+1. Load the cars dataset.
+2. What is this data set?
+3. Display the 1st column.
+4. What are the column names.
+5. How many rows are there?
+6. Display the second row.
+7. What row number/s has/have entry speed == 16?
+8. How many row number/s has/have entry speed == 16?
+9. Create a new dataframe composed of all rows where where Speed > 15.
+10.Create a new dataframe with all examples where Speed <23 and dist>25.
 
 ---
 ### How to learn:
