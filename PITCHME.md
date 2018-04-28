@@ -20,7 +20,7 @@
 With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
 
 ---
-Class Notes:
+### Class Notes:
 1. There are no labs(i.e. they are not manditory).
 2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actual participation in the class.
 3. Homework for 1 is due before the start of Live Session 2. 
@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=-O01G3tSYpU&feature=youtu.be
 
 ---
 
-Disclaimer:  I have dysgraphia. It's a kind of visual blindness for symbols.  What this means: Get on github and fix my typos.  
+### Disclaimer:  I have dysgraphia. It's a kind of visual blindness for symbols.  What this means: Get on github and fix my typos.  
 
 
 Notes:
@@ -73,7 +73,7 @@ www.kdnuggets.com
 https://learnxinyminutes.com/docs/r/
 
 ---
-Breakout One
+### Breakout One
 
 This will be the most open ended of our work this semester and it will give me a chance to get to know you and to know each other.
 
@@ -86,8 +86,7 @@ It’s fairly standard to thinking of the following specialists positions in dat
 
 
 ---
-# Day 2
-How to learn:
+### How to learn:
 - Some algorithms are designed best run on silicon and others on carbon. 
 - You need to develop ways of thinking about the problem that allows you to apply your techniques.
 - What question would you like to be able to answer with these skills that you can't currently?  
@@ -97,10 +96,8 @@ What is machine learning:
 - There is no simple solution to statistical validity.  There is no function, but rather a conversation.
 - Currently four ways of thinking about data. Tall, flat, square, blocks
 ---
-
 Language choice:
-- coding is not about syntax
-Syntax is how you communicate correclty, but programing is about ideas.  
+- coding is not about syntax( Syntax is how you communicate correctly, regardless if its jibberish.)
 - python > pandas
 - scripting versus programing, interactive environment versus output
 - Python packages versus R repo
