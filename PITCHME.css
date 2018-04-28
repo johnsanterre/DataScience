@@ -1,9 +1,7 @@
-.reveal pre code {
-  font-size: .3em;
-  line-height: .2;
+.reveal .slides {
+    text-align: left;
 }
-
-.reveal pre {
-  width: 10%;
-  margin-left: -10%;
+.reveal .slides section>* {
+    margin-left: 0;
+    margin-right: 0;
 }
