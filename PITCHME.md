@@ -194,7 +194,7 @@ https://lifehacker.com/become-a-deep-learning-coder-from-scratch-in-under-a-ye-1
 
 
 
-
+---
 ~~~~
 # adapted from https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 
