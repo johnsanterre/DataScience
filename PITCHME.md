@@ -50,13 +50,13 @@ The link below explians how R works under the hood.
 https://adv-r.hadley.nz/index.html
 
 ---
-If you want to know about Machine Learning:
+If you want an overview of Machine Learning:
 
 https://www.youtube.com/watch?v=-O01G3tSYpU&feature=youtu.be
 
 ---
 
-### Disclaimer:  I have dysgraphia. It's a kind of visual blindness for symbols.  What this means: Get on github and fix my typos.  
+Disclaimer:  I have dysgraphia. It's a kind of visual blindness for symbols.  What this means: Get on github and fix my typos.  
 
 
 Notes:
