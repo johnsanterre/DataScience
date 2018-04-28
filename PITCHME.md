@@ -195,6 +195,72 @@ https://lifehacker.com/become-a-deep-learning-coder-from-scratch-in-under-a-ye-1
 
 
 
+~~~~
+# adapted from https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+
+#normalized mpg
+x <-cbind(mtcars[-1],(mtcars[1]-min(mtcars[1]))/(max(mtcars[1])-min(mtcars[1])) )
+
+#linear
+fit <- lm(mpg ~ ., data = x)
+summary(fit)
+
+#logistic Regression
+fit <- glm(mpg ~ ., data = x, family='binomial')
+summary(fit)
+
+#decision Tree
+library(rpart)
+fit <- rpart(mpg ~ ., data = x, method="class")
+summary(fit)
+
+#SVM
+library(e1071)
+fit <-svm(mpg ~ ., data = x)
+summary(fit)
+
+#NB
+fit <-naiveBayes(mpg ~ ., data = x)
+summary(fit)
+
+#kmeans
+library(cluster)
+fit <- kmeans(x, 3)
+summary(fit)
+
+#rf
+library(randomForest)
+fit <- randomForest(mpg ~ ., x,ntree=500)
+summary(fit)
+
+#pca
+library(stats)
+fit <- princomp(x, cor = TRUE)
+summary(fit)
+
+#library(parallel)
+#library(doParallel)
+#fitControl <- trainControl(method = "cv",number = 2, allowParallel = TRUE)
+#cluster <- makeCluster(detectCores() - 1) 
+#registerDoParallel(cluster)
+
+#Gradiant Boosting Algorithms
+library(caret)
+fitControl <- trainControl( method = "repeatedcv", number = 4, repeats = 4)
+fit <- train(mpg ~ ., data = x, method = "gbm", trControl = fitControl, verbose = FALSE)
+
+#xgboost
+TrainControl <- trainControl( method = "repeatedcv", number = 10, repeats = 4)
+#linear
+fit<- train(mpg ~ ., data = x, method = "xgbLinear", trControl = TrainControl, verbose = FALSE)
+summary(fit)
+
+#tree
+fit<- train(mpg ~ ., data = x, method = "xgbTree", trControl = TrainControl, verbose = FALSE)
+summary(fit)
+
+~~~~
+
 
 
 
