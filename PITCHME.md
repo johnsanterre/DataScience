@@ -3,13 +3,13 @@
 
 Topic_001:
 ---
-#### Education
+## Education
   - English BA -> Computer Science PhD (i.e. long road)
-#### Work
+## Work
   - Jump starting teams and groups(Ecolabs, Argonne, Triggr Health, Data Science for Social Good.)
-### What role I will take
+## What role I will take
   - Coach/enabler >> disciplinarian
-### What role you will need to take
+## What role you will need to take
   - patient, diligent, self starting
 
 ---
@@ -24,6 +24,7 @@ Topic_001:
 
 With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
 
+---
 
 
 
@@ -36,6 +37,7 @@ Class Notes:
 6. This class starts slow then builds in speed.  
 7. You are strongly encouraged to collaborate on homeowork, but please make note of it on your submission.  
 
+---
 
 Crucial resources:
 
@@ -48,7 +50,6 @@ We will complete the first 15 assignments over the first 4 weeks.
 
 If you are a SE(sofware engineer) and the above was too simple,  the link below explians how R works under the hood. 
 https://adv-r.hadley.nz/index.html
-
 
 
 If you want to know about Machine Learning:
