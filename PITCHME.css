@@ -5,3 +5,8 @@
     margin-left: 0;
     margin-right: 0;
 }
+
+.reveal text {
+  font-size: 1.3em;
+  line-height: 1.2;
+}
