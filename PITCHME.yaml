@@ -1,3 +1,4 @@
 theme : moon
+slide-number : true
+
 theme-override : /PITCHME.css
-slide-number : TRUE
