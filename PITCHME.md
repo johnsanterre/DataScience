@@ -67,7 +67,7 @@ https://www.datatau.com
 
 https://news.ycombinator.com
 
-www.kdnuggets.com
+https://www.kdnuggets.com
 
 https://learnxinyminutes.com/docs/r/
 
@@ -78,7 +78,7 @@ This will be the most open ended of our work this semester and it will give me a
 
 It’s fairly standard to thinking of the following specialists positions in data science. (Programer, Statistician, Domain expert/Business lead, Machine Learning) 
 
-1. What position do you want to have when you are done with you schooling? 
+1. What position do you want to have when you are done with your schooling? 
 
 2. Write job descriptions for each position for starting a data science team for self driving cars.
 
@@ -103,7 +103,7 @@ With so many ways to contribute, it’s hard to figure out how to be you versus 
 What is machine learning:
 - There is no simple solution to statistical validity.  There is no function, but rather a conversation.
 - Currently four ways of thinking about data. Tall, flat, square, blocks
----
+
 Language choice:
 - coding is not about syntax( Syntax is how you communicate correctly, regardless if its jibberish.)
 - python > pandas
