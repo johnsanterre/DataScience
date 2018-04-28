@@ -282,6 +282,32 @@ summary(fit)
 ~~~~
 ---
 
+Iris Data
+
+~~~~
+hist(iris[,4])
+hist(iris[,1] + iris[,2])
+hist(iris[,1] + iris[,2] - iris[,3])
+
+num_exmps = nrow(iris)
+L = replace(integer(num_exmps), iris[,5]=="virginica", 1)
+M = iris[, -5]
+train_idx = sample(c(1:num_exmps), size = num_exmps * 0.7, replace = FALSE)
+
+clf_7<-randomForest(M[train_idx,], as.factor(L[train_idx]), 
+                    proximity = TRUE, importance = TRUE)
+pred<-predict(clf_7, M[-train_idx,],type="prob")
+plot(roc(L[-train_idx], as.numeric(pred[,1])))
+
+# 80% creates a dent? 70% looks perfect?
+train_idx = sample(c(1:num_exmps), size = num_exmps * 0.8, replace = FALSE)
+
+clf_7<-randomForest(M[train_idx,], as.factor(L[train_idx]), 
+                    proximity = TRUE, importance = TRUE)
+pred<-predict(clf_7, M[-train_idx,],type="prob")
+plot(roc(L[-train_idx], as.numeric(pred[,1])))
+~~~~
+
 
 
 
