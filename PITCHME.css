@@ -1,9 +1,9 @@
 .reveal pre code {
-  font-size: 1.3em;
-  line-height: 1.2;
+  font-size: .3em;
+  line-height: .2;
 }
 
 .reveal pre {
-  width: 120%;
+  width: 10%;
   margin-left: -10%;
 }
