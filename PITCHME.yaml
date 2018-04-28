@@ -1,5 +1,4 @@
 theme : moon
 slide-number : true
 footnote : "© 2018 John Santerre, PhD."
-
 theme-override : /PITCHME.css
