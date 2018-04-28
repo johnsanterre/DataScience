@@ -11,16 +11,12 @@ visit : https://gitpitch.com/johnsanterre/DataScience/master
 
 ---
 
-  Why this perspective is important:
-- Data Science == Programing, Statistics, Math, Domain/Business Specialist, 
-- Programing == Data engineer, code optimization, Object Oriented design, Scientific Programing
-- Statistics == Bayesian, Frequentist, Statistical Machine Learning
-- Math == Numerical Linear Algebra, Wavelets, Signal processing, 
-
-
-With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
-
+In order importance for both learning and grading
+1.  Async and Swirl
+2.  Book materials
+3.  Me
 ---
+
 ### Class Notes:
 1. There are no labs(i.e. they are not manditory).
 2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actual participation in the class.
@@ -32,6 +28,8 @@ With so many ways to contribute, it’s hard to figure out how to be you versus 
 8. If you learn a bunch and develop your skills you will definitely get a good grade regardless of what path it takes to get there.
 9. My goal is to give you a one degree of distance to the stuff thats happening in the book.
 10. There is a lot of technical syntax to consider in this class, my hope is our discussions will be more about the big overview nad how to integrate DS into work.
+11. First homeworks are pretty straight forward, later ones are tougher.  
+12. Start groups now to help with homework questions.
 
 ---
 
@@ -83,6 +81,15 @@ It’s fairly standard to thinking of the following specialists positions in dat
 1. What position do you want to have when you are done with you schooling? 
 
 2. Write job descriptions for each position for starting a data science team for self driving cars.
+
+Why this perspective is important:
+- Data Science == Programing, Statistics, Math, Domain/Business Specialist, 
+- Programing == Data engineer, code optimization, Object Oriented design, Scientific Programing
+- Statistics == Bayesian, Frequentist, Statistical Machine Learning
+- Math == Numerical Linear Algebra, Wavelets, Signal processing, 
+
+
+With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
 
 
 
