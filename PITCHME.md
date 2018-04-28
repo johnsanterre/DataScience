@@ -1,7 +1,7 @@
 ## Data Science
 
 
-visit : https://gitpitch.com/johnsanterre/DataScience/master?grs=github&t=black#/
+visit : https://gitpitch.com/johnsanterre/DataScience/master
 ---
 ### Intro:
   - My Path: English BA -> Computer Sci. PhD (i.e. long road)
