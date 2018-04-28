@@ -22,7 +22,7 @@ In order importance for both learning and grading
 1. There are no labs(i.e. they are not manditory).
 2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actual participation in the class.
 3. Homework for 1 is due before the start of Live Session 2. 
-4. All late homework gets a 1/6th point deduction.  
+4. All late homework gets a 20% deduction.  
 5. Its not too early to start thinking about topic for final project.(https://archive.ics.uci.edu/ml/index.php)
 6. This class starts slow then builds in speed.  
 7. You are  encouraged to collaborate on homeowork, but please make note of it on your submission.  
