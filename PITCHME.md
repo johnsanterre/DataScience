@@ -64,3 +64,17 @@ https://www.datatau.com
 
 https://news.ycombinator.com
 
+---
+Breakout One
+
+This will be the most open ended of our work this semester and it will give me a chance to get to know you and to know each other.It’s fairly standard to thinking of the following specialists positions in data science.
+
+- Programer
+- Statistician
+- Domain expert/Business lead
+- Machine Learning
+
+Quick poll to see how each of you self identify with each position currently? What position do you want to have when you are done with you schooling?
+** Write job descriptions for each position for starting a data science team for self driving cars.**
+
+---
