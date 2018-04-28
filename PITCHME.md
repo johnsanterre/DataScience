@@ -3,10 +3,10 @@
 
 Topic_001:
 ---
-  - Path: English BA -> Computer Science PhD (i.e. long road)
-  - Background:  Jump starting teams and groups(Ecolabs, Argonne, Triggr Health, Data Science for Social Good.)
+  - My Path: English BA -> Computer Science PhD (i.e. long road)
+  - My Background:  Jump starting teams and groups (Ecolabs, Argonne, Triggr Health, SAP, Data Science for Social Good.)
   - I am Coach/enabler >> disciplinarian
-  - You will need to be: patient, diligent, self starting
+  - You need to be: patient, diligent, self starting
 
 ---
 
