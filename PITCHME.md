@@ -3,7 +3,8 @@
 
 Topic_001:
 ---
-  - My Path: English BA -> Computer Science PhD (i.e. long road)
+
+  - My Path: English BA -> Computer Sci. PhD (i.e. long road)
   - My Background:  Jump starting teams and groups (Ecolabs, Argonne, Triggr Health, SAP, Data Science for Social Good.)
   - I am Coach/enabler >> disciplinarian
   - You need to be: patient, diligent, self starting
@@ -15,7 +16,6 @@ Topic_001:
 - Programing == Data engineer, code optimization, Object Oriented design, Scientific Programing
 - Statistics == Bayesian, Frequentist, Statistical Machine Learning
 - Math == Numerical Linear Algebra, Wavelets, Signal processing, 
-
 
 
 With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
