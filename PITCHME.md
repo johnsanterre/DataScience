@@ -92,6 +92,7 @@ Why this perspective is important:
 With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
 
 ---
+# Quiz example
 1. Load the cars dataset.
 2. What is this data set?
 3. Display the 1st column.
