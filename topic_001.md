@@ -47,6 +47,9 @@ https://adv-r.hadley.nz/index.html
 
 
 
+If you want to know about Machine Learning:
+https://www.youtube.com/watch?v=-O01G3tSYpU&feature=youtu.be
+
 
 #### Disclaimer:  I have dysgraphia. It's a kind of visual blindness for symbols.  What this means: Get on github and fix my typos.  Starting in markdown and moving to Latex at somepoint.
 
