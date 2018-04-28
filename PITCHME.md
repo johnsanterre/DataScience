@@ -28,9 +28,8 @@ In order importance for both learning and grading
 7. You are  encouraged to collaborate on homeowork, but please make note of it on your submission.  
 8. If you learn a bunch and develop your skills you will definitely get a good grade regardless of what path it takes to get there.
 9. My goal is to give you a one degree of distance to the stuff thats happening in the book.
-10. There is a lot of technical syntax to consider in this class, my hope is our discussions will be more about the big overview nad how to integrate DS into work.
-11. First homeworks are pretty straight forward, later ones are tougher.  
-12. Start groups now to help with homework questions.
+10. There is a lot of technical syntax to consider in this class, my hope is our discussions will be more about the big overview and how to integrate DS into work.
+11. Start groups now to help with homework questions.
 
 ---
 
