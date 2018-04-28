@@ -36,16 +36,21 @@ Crucial resources:
 
 If you are just getting started with R.  Install r studio and install the swirl package.  
 http://swirlstats.com/students.html
+
 We will use:  install_from_swirl("R Programming")
+
 We will complete the first 15 assignments over the first 4 weeks.  
 ---
 
 If you are a SE(sofware engineer) or just want to know WHY?
+
 The link below explians how R works under the hood. 
+
 https://adv-r.hadley.nz/index.html
 
 ---
 If you want to know about Machine Learning:
+
 https://www.youtube.com/watch?v=-O01G3tSYpU&feature=youtu.be
 
 ---
@@ -54,6 +59,8 @@ https://www.youtube.com/watch?v=-O01G3tSYpU&feature=youtu.be
 
 
 Notes:
+
 https://www.datatau.com
+
 https://news.ycombinator.com
 
