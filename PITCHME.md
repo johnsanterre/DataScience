@@ -1,7 +1,7 @@
 ## Data Science
 
 
-Topic_001:
+Day 1:
 ---
 
   - My Path: English BA -> Computer Sci. PhD (i.e. long road)
@@ -30,6 +30,9 @@ Class Notes:
 6. This class starts slow then builds in speed.  
 7. You are  encouraged to collaborate on homeowork, but please make note of it on your submission.  
 8. If you learn a bunch and develop your skills you will definitely get a good grade regardless of what path it takes to get there.
+9. My goal is to give you a one degree of distance to the stuff thats happening in the book.
+10. There is a lot of technical syntax to consider in this class, my hope is our discussions will be more about the big overview nad how to integrate DS into work.
+
 ---
 
 Crucial resources:
@@ -60,32 +63,19 @@ https://www.youtube.com/watch?v=-O01G3tSYpU&feature=youtu.be
 
 Notes:
 
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
 https://www.datatau.com
 
 https://news.ycombinator.com
 
+www.kdnuggets.com
+
+https://learnxinyminutes.com/docs/r/
+
 ---
 Breakout One
 
-This will be the most open ended of our work this semester and it will give me a chance to get to know you and to know each other.It’s fairly standard to thinking of the following specialists positions in data science.
-
-- Programer
-- Statistician
-- Domain expert/Business lead
-- Machine Learning
-
-Quick poll to see how each of you self identify with each position currently? What position do you want to have when you are done with you schooling?
-** Write job descriptions for each position for starting a data science team for self driving cars.**
-
----
-# Overview: Why big picture is relevant
-- Data Science == Programing, Statistics, Math,  Domain Specialist, Business specialist
-- Programing == Data engineer, code optimizer, Object Oriented coder, Scientific Programing
-- Statistics == Bayesian, Frequentist, Statistical Machine Learning
-- Math == Numerical Linear Algebra, Wavelets, Signal processing
-
-
-# Breakout One
 This will be the most open ended of our work this semester and it will give me a chance to get to know you and to know each other.
 
 It’s fairly standard to thinking of the following specialists positions in data science. (Programer, Statistician, Domain expert/Business lead, Machine Learning) 
@@ -94,21 +84,15 @@ It’s fairly standard to thinking of the following specialists positions in dat
 
 2. Write job descriptions for each position for starting a data science team for self driving cars.
 
----
+
 
 ---
-# Overview of class
-
-My goal is to give you a one degree of distance to the stuff thats happening in the book.
-
-There is a lot of technical syntax to consider in this class, my hope is our discussions will be more about the big overview nad how to integrate DS into work.
-
----
+# Day 2
 How to learn:
-- some algorithms are designed best run on silicon and others on carbon. 
+- Some algorithms are designed best run on silicon and others on carbon. 
 - You need to develop ways of thinking about the problem that allows you to apply your techniques.
 - What question would you like to be able to answer with these skills that you can't currently?  
-- Stack overflow life cycle (1. Can't find question, 2. Finding answers, 3. Realizing many answers are poor.)
+- Stackoverflow life cycle (1. Can't find question, 2. Finding answers, 3. Realizing many answers are poor.)
 ---
 What is machine learning:
 - There is no simple solution to statistical validity.  There is no function, but rather a conversation.
@@ -123,6 +107,54 @@ Syntax is how you communicate correclty, but programing is about ideas.
 - Python packages versus R repo
 
 ---
-Tendency to treat ML practitioners as "Keepers of the algorithms", with many magic tricks up thier sleave. Like magic tricks when people figutre out how an algorithm made its decision, they often feel like the impossilble was just a cheap trick.  
+
+Tendency to treat ML practitioners as "Keepers of the algorithms", with many magic tricks up thier sleave. Like magic tricks when people figutre out how an algorithm made its decision, they often feel like the impossilble was just a cheap trick.  
+
+Domanine Agnostic Machine Learning:
+
+https://www.youtube.com/watch?v=bL4b1sGnILU
+
 ---
+You will use regularly
+
+- Random Forest: "a collection of decision trees with controlled variance"
+  
+  Wiki: https://en.wikipedia.org/wiki/Random_forest
+  
+  Python: http://blog.yhat.com/posts/random-forests-in-python.html
+  
+  paper: https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf
+
+  Notes:  Yali Amit, a co-creater is head of Stat. Dept. at UChicago
+
+--- 
+
+- Lasso
+
+  Wiki: https://en.wikipedia.org/wiki/Lasso_(statistics)
+  
+  https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
+
+--- 
+
+- Cross Validation
+  Stratified Cross validation
+
+  Wiki: https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+
+  R: https://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/
+  
+- Data cleaning
+
+  https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
+
+---  
+Industry leading
+- XGBoost
+- Neural Network
+
+
+
+
+
 
