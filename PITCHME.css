@@ -6,7 +6,5 @@
     margin-right: 0;
 }
 
-.reveal text {
-  font-size: 1.3em;
-  line-height: 1.2;
-}
+.reveal h1 { font-size: 2.5em; } 
+
