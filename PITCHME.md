@@ -2,6 +2,7 @@
 
 
 ---
+@title[Some custom label]
 ### Intro:
   - My Path: English BA -> Computer Sci. PhD (i.e. long road)
   - My Background:  Jump starting teams and groups (Ecolabs, Argonne, Triggr Health, SAP, Data Science for Social Good.)
