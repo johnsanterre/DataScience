@@ -169,32 +169,51 @@ Industry leading
 - Neural Network
 
 
-
-
 ---
-### Possibly Intersting
-https://www.r-bloggers.com/make-rstudio-look-the-way-you-want-because-beauty-matters/amp/
-
-https://www.r-bloggers.com/a-maze-solving-minecraft-robot-in-r/
-
-https://www.computerworld.com/article/2497464/business-intelligence/top-r-language-resources-to-improve-your-data-skills.html
-
-https://rstudio.github.io/r2d3/
-
-https://www.r-bloggers.com/why-you-should-master-the-small-multiple-chart/amp/
-
-https://www.r-bloggers.com/how-to-map-public-debt-data-with-ggplot2/
-
-https://www.r-bloggers.com/how-to-set-up-a-sparklyr-cluster-in-5-minutes/amp/
-
-https://datascienceplus.com/3-simple-data-transformation-tricks-in-r-that-are-often-not-used/
-
-https://lifehacker.com/become-a-deep-learning-coder-from-scratch-in-under-a-ye-1822763353
-
+ML SIMPLE:
+~~~~
+library(randomForest)
+clf <- randomForset(iris[,-5],iris[,5])
+~~~~
 
 
 
 ---
+ML Simpleset actual work thru:
+
+~~~~
+library(pROC)
+library(randomForest)
+library(ggplot2)
+library(reshape2)
+
+#load data
+file_loc <-"http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv"
+wine <- read.csv(url(file_loc), sep=";") 
+
+#plot histograms
+ggplot(data = melt(wine), mapping = aes(x = value)) + geom_histogram(bins = 20) + facet_wrap(~variable, scales = 'free_x')
+
+#test RF
+clf_1 <- randomForest(wine[,-12],wine[,12])
+clf_2 <- randomForest(wine[,-12],as.factor(wine[,12]>=6))
+
+# Test ROC RF
+num_exmps = nrow(wine)
+L = replace(integer(num_exmps), wine[,12]>=6, 1)
+M <- wine[,-12]
+
+train_idx <- sample(c(1:num_exmps), size = num_exmps * 0.7, replace = FALSE)
+
+clf <- randomForest(M[train_idx,],as.factor(L[train_idx]))
+pred <- predict(clf, M[-train_idx,],type="prob")
+plot(roc(L[-train_idx], as.numeric(pred[,1])))
+~~~~
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+https://www.kaggle.com/vishalyo990/prediction-of-quality-of-wine
+---
+
+
 Easy Implimentation of Multiple ML algorithms
 ~~~~
 # adapted from https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
@@ -261,6 +280,30 @@ fit<- train(mpg ~ ., data = x, method = "xgbTree", trControl = TrainControl, ver
 summary(fit)
 
 ~~~~
+---
+
+
+
+
+---
+### Possibly Intersting
+https://www.r-bloggers.com/make-rstudio-look-the-way-you-want-because-beauty-matters/amp/
+
+https://www.r-bloggers.com/a-maze-solving-minecraft-robot-in-r/
+
+https://www.computerworld.com/article/2497464/business-intelligence/top-r-language-resources-to-improve-your-data-skills.html
+
+https://rstudio.github.io/r2d3/
+
+https://www.r-bloggers.com/why-you-should-master-the-small-multiple-chart/amp/
+
+https://www.r-bloggers.com/how-to-map-public-debt-data-with-ggplot2/
+
+https://www.r-bloggers.com/how-to-set-up-a-sparklyr-cluster-in-5-minutes/amp/
+
+https://datascienceplus.com/3-simple-data-transformation-tricks-in-r-that-are-often-not-used/
+
+https://lifehacker.com/become-a-deep-learning-coder-from-scratch-in-under-a-ye-1822763353
 
 
 
