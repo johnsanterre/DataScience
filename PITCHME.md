@@ -1,9 +1,8 @@
 ## Data Science
 
 
-Day 1:
 ---
-
+*Intro:*
   - My Path: English BA -> Computer Sci. PhD (i.e. long road)
   - My Background:  Jump starting teams and groups (Ecolabs, Argonne, Triggr Health, SAP, Data Science for Social Good.)
   - I am Coach/enabler >> disciplinarian
@@ -58,7 +57,7 @@ https://www.youtube.com/watch?v=-O01G3tSYpU&feature=youtu.be
 
 ---
 
-#### Disclaimer:  I have dysgraphia. It's a kind of visual blindness for symbols.  What this means: Get on github and fix my typos.  Starting in markdown and moving to Latex at somepoint.
+Disclaimer:  I have dysgraphia. It's a kind of visual blindness for symbols.  What this means: Get on github and fix my typos.  
 
 
 Notes:
