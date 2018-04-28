@@ -3,26 +3,22 @@
 
 Topic_001:
 ---
-## Education
-  - English BA -> Computer Science PhD (i.e. long road)
-## Work
-  - Jump starting teams and groups(Ecolabs, Argonne, Triggr Health, Data Science for Social Good.)
-## What role I will take
-  - Coach/enabler >> disciplinarian
-## What role you will need to take
-  - patient, diligent, self starting
+  - Path: English BA -> Computer Science PhD (i.e. long road)
+  - Background:  Jump starting teams and groups(Ecolabs, Argonne, Triggr Health, Data Science for Social Good.)
+  - I am Coach/enabler >> disciplinarian
+  - You will need to be: patient, diligent, self starting
 
 ---
 
-# Why this perspective is important:
-- Data Science == Programing, Statistics, Math,  Domain Specialist, Business specialist
-- Programing == Data engineer, code optimizer, Object Oriented coder, Scientific Programing
+  Why this perspective is important:
+- Data Science == Programing, Statistics, Math, Domain/Business Specialist, 
+- Programing == Data engineer, code optimization, Object Oriented design, Scientific Programing
 - Statistics == Bayesian, Frequentist, Statistical Machine Learning
 - Math == Numerical Linear Algebra, Wavelets, Signal processing, 
 
 
 
-With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
+With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
 
 ---
 
