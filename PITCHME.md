@@ -152,5 +152,30 @@ Industry leading
 
 
 
+---
+### Possibly Intersting
+https://www.r-bloggers.com/make-rstudio-look-the-way-you-want-because-beauty-matters/amp/
+
+https://www.r-bloggers.com/a-maze-solving-minecraft-robot-in-r/
+
+https://www.computerworld.com/article/2497464/business-intelligence/top-r-language-resources-to-improve-your-data-skills.html
+
+https://rstudio.github.io/r2d3/
+
+https://www.r-bloggers.com/why-you-should-master-the-small-multiple-chart/amp/
+
+https://www.r-bloggers.com/how-to-map-public-debt-data-with-ggplot2/
+
+https://www.r-bloggers.com/how-to-set-up-a-sparklyr-cluster-in-5-minutes/amp/
+
+https://datascienceplus.com/3-simple-data-transformation-tricks-in-r-that-are-often-not-used/
+
+https://lifehacker.com/become-a-deep-learning-coder-from-scratch-in-under-a-ye-1822763353
+
+
+
+
+
+
 
 
