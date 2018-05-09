@@ -57,6 +57,7 @@ pred <- predict(clf_3, M[-train_idx,],type="prob")
 
 #9. Plot ROC metric
 plot(roc(L[-train_idx], as.numeric(pred[,1])))
+# ROC info https://en.wikipedia.org/wiki/Receiver_operating_characteristic
 
 
 
