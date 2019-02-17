@@ -16,7 +16,11 @@
 - Statistics == Bayesian, Frequentist, Statistical Machine Learning
 - Math == Numerical Linear Algebra, Wavelets, Signal processing, 
 
-
+### Different roles
+- Async and Book are most important for homworks and quizs
+- Live sesions are most valuable for final presentation 
+- Directly after live session is best time for going over homework/remidial help.
+- Office hours provide over flow for that time.  
 
 With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
 
