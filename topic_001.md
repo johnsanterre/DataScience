@@ -56,6 +56,8 @@ We will complete the first 15 assignments over the first 4 weeks.
 If you are a SE(sofware engineer) and the above was too simple,  the link below explians how R works under the hood. 
 https://adv-r.hadley.nz/index.html
 
+Learning RMarkDown
+http://www.stat.cmu.edu/~cshalizi/rmarkdown/
 
 
 If you want to know about Machine Learning:
