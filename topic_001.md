@@ -1,38 +1,7 @@
 # Intro:
 
-#### Education
-  - English BA -> Computer Science PhD (i.e. long road)
-#### Work
-  - Jump starting teams and groups(Ecolabs, Argonne, Triggr Health, Data Science for Social Good.)
-### What role I will take
-  - Coach/enabler >> disciplinarian
 
-### What role you will need to take
-  - patient, diligent, self starting
-  - learn a new communication style
-  - learn a new way of signaling you involvment in a community
-  
-
-
-### Different roles 
-- Async and Book are most important for homworks and quizs
-- Live sesions are most valuable for final presentation 
-- Directly after live session is best time for going over homework/remidial help
-- Office hours provide over flow for that time
-- Slack provides opportunity for collaboration between students
-
-
-# Why this perspective is important:
-- Data Science == Programing, Statistics, Math,  Domain Specialist, Business specialist
-- Programing == Data engineer, code optimizer, Object Oriented coder, Scientific Programing
-- Statistics == Bayesian, Frequentist, Statistical Machine Learning
-- Math == Numerical Linear Algebra, Wavelets, Signal processing, 
-
-
-With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
-
-
-Class Notes:
+# Class Notes:
 1. There are no labs(i.e. they are not manditory).
 2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actuall participation in the class.
 3. Homework for 1 is due before the start of Live Session 2. 
@@ -52,6 +21,39 @@ Class 7: Prepare for Exam
 Class 8: Free  
 Class 9: Work in teams on final project  
 Class 10: Present final projects  
+
+
+# Me
+#### Education
+  - English BA -> Computer Science PhD (i.e. long road)
+#### Work
+  - Jump starting teams and groups(Ecolabs, Argonne, Triggr Health, Data Science for Social Good.)
+### What role I will take
+  - Coach/enabler >> disciplinarian
+
+### What role you will need to take
+  - patient, diligent, self starting
+  - learn a new communication style
+  - learn a new way of signaling you involvment in a community
+
+### Different roles 
+- Async and Book are most important for homworks and quizs
+- Live sesions are most valuable for final presentation 
+- Directly after live session is best time for going over homework/remidial help
+- Office hours provide over flow for that time
+- Slack provides opportunity for collaboration between students
+
+# Why this perspective is important:
+- Data Science == Programing, Statistics, Math,  Domain Specialist, Business specialist
+- Programing == Data engineer, code optimizer, Object Oriented coder, Scientific Programing
+- Statistics == Bayesian, Frequentist, Statistical Machine Learning
+- Math == Numerical Linear Algebra, Wavelets, Signal processing, 
+
+
+With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
+
+
+
 
 Crucial resources:
 
