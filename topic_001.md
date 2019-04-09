@@ -32,8 +32,6 @@
 With so many ways to contribute, it’s hard to figure out how to be you versus how to be someone else.  
 
 
-
-
 Class Notes:
 1. There are no labs(i.e. they are not manditory).
 2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actuall participation in the class.
@@ -41,17 +39,17 @@ Class Notes:
 4. Its not too early to start thinking about topic for final project.(https://archive.ics.uci.edu/ml/index.php)
 5. This class starts slow then builds in speed.  
 6. You are strongly encouraged to collaborate on homeowork, but please make note of it on your submission.  
+7. __Office hours are for primary Homework Discussion__
 
-
-
+# Class Structure
 Class 1: Orintation  
-Class 2: Lab  
+Class 2: Lab(group work)  
 Class 3: Machine Learning on Iris  
 Class 4: Review homework 1-3  
-Class 5:   
-Class 6:  
+Class 5: Free  
+Class 6: Mini-exam prep/ML Wine  
 Class 7: Prepare for Exam  
-Class 8:   
+Class 8: Free  
 Class 9: Work in teams on final project  
 Class 10: Present final projects  
 
