@@ -20,6 +20,10 @@ Welcome to the rodeo, your job this semester is just to stay on the bucking bron
 Cake:  __Book__, Async, Homework  
 Iceing:  _Live sessions_  
 
+# Exam
+21 question  
+60 min  
+all open answer  
 
 # Class Structure
 Class 1: Orintation  
