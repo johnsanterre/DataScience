@@ -1,4 +1,4 @@
-Welcome to the rodeo, your job this semester is just to stay on the bucking bronco, and not worry to much about how you manage to achieve your goal!
+Welcome to the rodeo, your job this semester is just to stay on the bucking bronco, and not worry to much about how you manage to achieve this goal!
 
 
 # Class Notes:
@@ -14,9 +14,9 @@ Welcome to the rodeo, your job this semester is just to stay on the bucking bron
 10. Homework 8-9, are back to reasonable.
 11. Homework 10 is optional if you include two machine learning algorithms in final project.
 
-# Importance
-Cake:  __Book__, Async, Homework
-Iceing:  _Live sessions_
+# Importance  
+Cake:  __Book__, Async, Homework  
+Iceing:  _Live sessions_  
 
 
 # Class Structure
