@@ -1,3 +1,6 @@
+Welcome to the rodeo, your job this semester is just to stay on the bucking bronco, and not worry to much about how you manage to achieve your goal!
+
+
 # Class Notes:
 1. There are no labs(i.e. they are not manditory).
 2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actuall participation in the class.
@@ -5,7 +8,16 @@
 4. Its not too early to start thinking about topic for final project.(https://archive.ics.uci.edu/ml/index.php)
 5. This class starts slow then builds in speed.  
 6. You are strongly encouraged to collaborate on homeowork, but please make note of it on your submission.  
-7. __Office hours are for primary Homework Discussion__
+7. __Office hours are the primary opportunity for Homework Discussion__
+8. Homework 1-4 is reasonable effort.
+9. Homework 5-7 are very hard.
+10. Homework 8-9, are back to reasonable.
+11. Homework 10 is optional if you include two machine learning algorithms in final project.
+
+# Importance
+Cake:  __Book__, Async, Homework
+Iceing:  _Live sessions_
+
 
 # Class Structure
 Class 1: Orintation  
@@ -13,7 +25,7 @@ Class 2: Lab(group work)
 Class 3: Machine Learning on Iris  
 Class 4: Review homework 1-3  
 Class 5: Free  
-Class 6: Mini-exam prep/ML Wine  
+Class 6: Mini-exam prep/ML Wine(prep for final)  
 Class 7: Prepare for Exam  
 Class 8: Free  
 Class 9: Work in teams on final project  
