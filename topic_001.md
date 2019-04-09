@@ -43,6 +43,17 @@ Class Notes:
 6. You are strongly encouraged to collaborate on homeowork, but please make note of it on your submission.  
 
 
+
+Class 1: Orintation
+Class 2: Lab
+Class 3: Machine Learning on Iris
+Class 4: Review homework 1-3
+Class 5: 
+Class 6:
+Class 7: Prepare for Exam
+Class 8: 
+Class 9: Work in teams on final project
+Class 10: Present final projects
 Crucial resources:
 
 If you are just getting started with R.  Install r studio and install the swirl package.  
