@@ -13,6 +13,8 @@ Welcome to the rodeo, your job this semester is just to stay on the bucking bron
 9. Homework 5-7 are very hard.
 10. Homework 8-9, are back to reasonable.
 11. Homework 10 is optional if you include two machine learning algorithms in final project.
+12. Our grading approach anticipates many of you feeling overwhelmed.  
+13. Weeks 3-5 many of you will reach out to me concerned you are falling behind.
 
 # Importance  
 Cake:  __Book__, Async, Homework  
