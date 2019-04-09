@@ -24,8 +24,9 @@ Slack will be the central space you turn to make sense of the harder parts of th
 
 # Exam
 21 question  
-60 min  
+60 min 
 all open answer  
+password give out in class 7 and you have 1 week to take the exam 
 
 # Class Structure
 Class 1: Orintation  
