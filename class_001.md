@@ -17,8 +17,10 @@ Welcome to the rodeo, your job this semester is just to stay on the bucking bron
 13. Weeks 3-5 many of you will reach out to me concerned you are falling behind.
 
 # Importance  
-Cake:  __Book__, Async, Homework  
+Cake:  __Book__, Async, Homework, slack, group  
 Iceing:  _Live sessions_  
+
+Slack will be the central space you turn to make sense of the harder parts of this class.  It is the fastest way to connect with me and get support from your other students.  
 
 # Exam
 21 question  
