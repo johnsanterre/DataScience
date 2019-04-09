@@ -45,7 +45,9 @@ Class Notes:
 
 
 Class 1: Orintation
+
 Class 2: Lab
+
 Class 3: Machine Learning on Iris
 Class 4: Review homework 1-3
 Class 5: 
