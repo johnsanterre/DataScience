@@ -1,6 +1,3 @@
-# Intro:
-
-
 # Class Notes:
 1. There are no labs(i.e. they are not manditory).
 2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actuall participation in the class.
