@@ -38,10 +38,9 @@ Class Notes:
 1. There are no labs(i.e. they are not manditory).
 2. Simply logging into the platform for live sessions will earn 1/2 of your participation grade.  The rest will come from actuall participation in the class.
 3. Homework for 1 is due before the start of Live Session 2. 
-4. All late homework gets a .5 out of 3 deduction.  
-5. Its not too early to start thinking about topic for final project.(https://archive.ics.uci.edu/ml/index.php)
-6. This class starts slow then builds in speed.  
-7. You are strongly encouraged to collaborate on homeowork, but please make note of it on your submission.  
+4. Its not too early to start thinking about topic for final project.(https://archive.ics.uci.edu/ml/index.php)
+5. This class starts slow then builds in speed.  
+6. You are strongly encouraged to collaborate on homeowork, but please make note of it on your submission.  
 
 
 Crucial resources:
