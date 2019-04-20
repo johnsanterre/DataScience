@@ -1,0 +1,21 @@
+# Welcome to this class!
+## This isn't quite as important
+#### Cerntinally less important
+
+There are list elements:
+
+ - 1 
+ - 2
+ 
+This is _underliend._  This  is in __bold__.
+
+This is r code
+  ```{r}
+3+3
+```
+
+This is plot
+```{r}
+plot(1:30)
+hist(rnorm(300))
+```
