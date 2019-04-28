@@ -18,6 +18,9 @@ iris.rf <- randomForest(M, L)
 iris.rf
 iris.rf$importance
 
+# https://stats.stackexchange.com/questions/41443/how-to-actually-plot-a-sample-tree-from-randomforestgettree
+
+
 ## Example 2
 
 # 1. Tools
