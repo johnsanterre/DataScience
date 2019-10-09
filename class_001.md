@@ -64,8 +64,8 @@ Class 10: Present final projects
 - Slack provides opportunity for collaboration between students
 
 # Why this perspective is important:
-- Data Science == Programing, Statistics, Math,  Domain Specialist, Business specialist
-- Programing == Data engineer, code optimizer, Object Oriented coder, Scientific Programing
+- Data Science == Programming, Statistics, Math,  Domain Specialist, Business specialist
+- Programming == Data engineer, code optimizer, Object Oriented coder, Scientific Programming
 - Statistics == Bayesian, Frequentist, Statistical Machine Learning
 - Math == Numerical Linear Algebra, Wavelets, Signal processing
 
