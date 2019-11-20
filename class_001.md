@@ -36,7 +36,7 @@ Class 4: Review homework 1-3
 Class 5: Free  
 Class 6: Mini-exam prep/ML Wine(prep for final)  
 Class 7: Prepare for Exam  
-Class 8: Bias in Machine Learning
+Class 8: Bias in Machine Learning  
 Class 9: Work in teams on final project  
 Class 10: Present final projects  
 
