@@ -79,7 +79,7 @@ If you are just getting started with R.  Install r studio and install the swirl 
 
 http://swirlstats.com/students.html  
 We will use:  install_from_swirl("R Programming")  
-We will complete the first 15 assignments over the first 4 weeks.    
+Could complete the first 15 assignments over the first 4 weeks.    
 
 
 If you are a SE(sofware engineer) and the above was too simple,  the link below explians how R works under the hood. 
